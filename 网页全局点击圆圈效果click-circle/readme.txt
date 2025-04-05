@@ -1,4 +1,4 @@
-** 这个效果只在passage元素中显示！ **
+** 这个效果只在passage和uibar元素中显示！ **
 保证js与css都引入
 .min.js为压缩版本，可以有效减小体积
 Sugarcube2专用！
